@@ -1,14 +1,14 @@
 # Agenda
 
-## Intro 🐭
+## 1. Intro 🐭
 https://www.slideshare.net/moriator/phochungkhoan-chu-k-vn-v-th-trng-chng-khon
 https://www.slideshare.net/moriator/phochungkhoanvn-kinh-t-v-m
 
-## Strategy 🐵
+## 2. Strategy 🐵
 
-## Principle 🐻
+## 3. Principle 🐻
 
-## Technical analytics 🐃
+## 4. Technical analytics 🐃
 https://www.slideshare.net/moriator/phochungkhoanvn-phn-tch-k-thut
 
 ### Candlestick
