@@ -19,7 +19,7 @@ https://www.ssi.com.vn/tin-tuc/tin-tuc-su-kien-ssi/nhung-chien-luoc-dau-tu-chung
 
 
 ## 3. Principle 🐻
-
+https://github.com/lechidung/stock-invetor-business/blob/main/principle.md
 
 ## 4. Technical analytics 🐃
 1. Candlestick
