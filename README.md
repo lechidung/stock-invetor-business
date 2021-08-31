@@ -16,6 +16,7 @@ https://www.slideshare.net/moriator/phochungkhoanvn-kinh-t-v-m
 ### Documents
 https://fibonacci.edu.vn/chien-luoc-di-tien-trong-dau-tu-chung-khoan/
 https://www.ssi.com.vn/tin-tuc/tin-tuc-su-kien-ssi/nhung-chien-luoc-dau-tu-chung-khoan-nao-dang-thang-the
+https://hocviendautu.edu.vn/chung-khoan/chien-luoc-dau-tu-chung-khoan-co-ban-ai-cung-can-biet.html
 
 
 ## 3. Principle 🐻
